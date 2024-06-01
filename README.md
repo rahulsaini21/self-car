@@ -3,7 +3,7 @@
 In regressions.py:
 I have build regression model from myself.
 
-In optimisations.ipynb
+In optimisations.ipynb:
 I have build optimisation techinique for regression from myself.
 
 
